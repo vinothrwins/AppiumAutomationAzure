@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Appium Automation Suite">
+  <test thread-count="5" name="API Demo Application">
+    <classes>
+      <class name="com.nxtgenai.testng.APIDemo"/>
+    </classes>
+  </test> <!-- API Demo Application -->
+</suite> <!-- Appium Automation Suite -->

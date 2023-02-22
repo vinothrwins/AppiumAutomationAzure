@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-21T11:12:37 IST" name="Appium Automation Suite" finished-at="2023-02-21T11:15:39 IST" duration-ms="182051">
+    <groups>
+    </groups>
+    <test started-at="2023-02-21T11:12:37 IST" name="API Demo Application" finished-at="2023-02-21T11:15:39 IST" duration-ms="182051">
+      <class name="com.nxtgenai.testng.APIDemo">
+        <test-method signature="launchApplication()[pri:1, instance:com.nxtgenai.testng.APIDemo@543588e6]" started-at="2023-02-21T11:12:37 IST" name="launchApplication" finished-at="2023-02-21T11:12:49 IST" duration-ms="11937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="handlingRadioButton()[pri:2, instance:com.nxtgenai.testng.APIDemo@543588e6]" started-at="2023-02-21T11:12:49 IST" name="handlingRadioButton" finished-at="2023-02-21T11:13:56 IST" duration-ms="67538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handlingRadioButton -->
+        <test-method signature="handlingCheckBox()[pri:3, instance:com.nxtgenai.testng.APIDemo@543588e6]" started-at="2023-02-21T11:13:56 IST" name="handlingCheckBox" finished-at="2023-02-21T11:15:38 IST" duration-ms="101979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handlingCheckBox -->
+        <test-method signature="closeApplication()[pri:4, instance:com.nxtgenai.testng.APIDemo@543588e6]" started-at="2023-02-21T11:15:38 IST" name="closeApplication" finished-at="2023-02-21T11:15:39 IST" duration-ms="552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.nxtgenai.testng.APIDemo -->
+    </test> <!-- API Demo Application -->
+  </suite> <!-- Appium Automation Suite -->
+</testng-results>
